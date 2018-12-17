@@ -1,0 +1,2 @@
+[PT] Projeto final da disciplina de Programação em Tempo Real - Sensor de Ré utilizando programação em tempo real
+[EN] Final project of the course Real-time Programming - Reversing car sensor using real-time programming

@@ -1,0 +1,1 @@
+pyuic5 -x Aula06_Exemplo6Design.ui -o Aula06_Exemplo6Design.py
